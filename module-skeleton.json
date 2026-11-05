@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-telephony-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-telephony",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-telephony-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/telephony.md",
+  "presentationPlan": "projects/crm/nuxt/telephony.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
